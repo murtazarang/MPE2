@@ -2,12 +2,12 @@
 """
 # Simple Push
 
-```{figure} mpe_simple_push.gif
+```{figure} mpe2/mpe2_simple_push.gif
 :width: 140px
 :name: simple_push
 ```
 
-This environment is part of the <a href='..'>MPE environments</a>. Please read that page first for general information.
+This environment is part of the <a href='https://mpe2.farama.org/mpe2/'>MPE environments</a>. Please read that page first for general information.
 
 | Import             |      `from mpe2 import simple_push_v3`      |
 |--------------------|---------------------------------------------|

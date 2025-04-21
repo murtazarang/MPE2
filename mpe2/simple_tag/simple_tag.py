@@ -2,12 +2,12 @@
 """
 # Simple Tag
 
-```{figure} mpe_simple_tag.gif
+```{figure} mpe2/mpe2_simple_tag.gif
 :width: 140px
 :name: simple_tag
 ```
 
-This environment is part of the <a href='..'>MPE environments</a>. Please read that page first for general information.
+This environment is part of the <a href='https://mpe2.farama.org/mpe2/'>MPE environments</a>. Please read that page first for general information.
 
 | Import             |              `from mpe2 import simple_tag_v3`              |
 |--------------------|------------------------------------------------------------|
